@@ -1,0 +1,29 @@
+# Python virtual environments
+venv/
+app/venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Uploaded documents
+uploads/
+app/uploads/
+
+# Generated FAISS vector stores
+vector_store/
+app/vector_store/
+
+# Editor temporary files
+*.swp
+
+# Environment/secrets
+.env
+venv/
+app/venvvenv/
+__pycache__/
+*.pyc
+.DS_Store
+._*
+*.swp
